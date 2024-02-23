@@ -44,7 +44,5 @@ while True:
 ![image](https://github.com/KUSHALI104/2b_SLIDING_WINDOW_PROTOCOL/assets/150231135/282c3842-4bff-461a-86b8-95d699ed5e75)
 ### SERVER:
 ![image](https://github.com/KUSHALI104/2b_SLIDING_WINDOW_PROTOCOL/assets/150231135/a4e71317-9eb9-4e8d-9510-778bb676b228)
-
-
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
